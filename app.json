@@ -1,0 +1,8 @@
+{
+  "expo": {
+    "sdkVersion": "22.0.0"
+  },
+  "androidStatusBarColor": "#000",
+  "name": "mctstrackerrn",
+  "displayName": "MCTS RN"
+}

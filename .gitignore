@@ -1,0 +1,10 @@
+node_modules/
+.expo/
+npm-debug.*
+ios/build/
+ios/Pods/
+ios/mctstrackerrn.xcworkspace/
+android/build/
+android/.gradle/
+android/app/build/
+ios/mctstrackerrn.xcodeproj/project.xcworkspace/xcuserdata/
